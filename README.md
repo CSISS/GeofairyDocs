@@ -1,0 +1,2 @@
+# GeofairyDocs
+Documentation for Geofairy
